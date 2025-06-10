@@ -1,0 +1,18 @@
+Files to create in VS Code:
+
+1. app.py
+2. app_enhanced.py  
+3. resume_parser.py
+4. job_matcher.py
+5. utils.py
+6. database.py
+7. setup.py
+8. install.py
+9. requirements.txt
+10. .env
+11. config/config.py
+12. run_setup.bat
+13. run_windows.bat
+14. README.md
+15. INSTALLATION_GUIDE.md
+16. QUICK_START_GUIDE.md
